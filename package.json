@@ -1,0 +1,22 @@
+{
+  "name": "crud_app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dbconn.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saqib59/crud_app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saqib59/crud_app/issues"
+  },
+  "homepage": "https://github.com/saqib59/crud_app#readme",
+  "dependencies": {
+    "pg": "^8.8.0"
+  }
+}
